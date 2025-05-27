@@ -1,0 +1,13 @@
+# ninja log v5
+0	390	6880798883348646	CMakeFiles/fibonaccirecursive.dir/main.cpp.obj	ce5f8b3672c20f7b
+394	511	6880798884526315	fibonaccirecursive.exe	ebe4d0c2fac26eb4
+5	324	6880799064946204	CMakeFiles/fibonaccirecursive.dir/main.cpp.obj	ce5f8b3672c20f7b
+325	424	6880799065951119	fibonaccirecursive.exe	ebe4d0c2fac26eb4
+3	303	6880799735225275	CMakeFiles/fibonaccirecursive.dir/main.cpp.obj	ce5f8b3672c20f7b
+303	404	6880799736149108	fibonaccirecursive.exe	ebe4d0c2fac26eb4
+4	318	6880799907183292	CMakeFiles/fibonaccirecursive.dir/main.cpp.obj	ce5f8b3672c20f7b
+319	416	6880799908108037	fibonaccirecursive.exe	ebe4d0c2fac26eb4
+3	364	6880800058826659	CMakeFiles/fibonaccirecursive.dir/main.cpp.obj	ce5f8b3672c20f7b
+365	460	6880800059770012	fibonaccirecursive.exe	ebe4d0c2fac26eb4
+3	322	6880800723881671	CMakeFiles/fibonaccirecursive.dir/main.cpp.obj	ce5f8b3672c20f7b
+322	418	6880800724806987	fibonaccirecursive.exe	ebe4d0c2fac26eb4

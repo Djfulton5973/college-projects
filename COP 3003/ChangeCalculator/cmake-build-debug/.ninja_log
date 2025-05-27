@@ -1,0 +1,11 @@
+# ninja log v5
+0	468	6830845375683590	CMakeFiles/ChangeCalculator.dir/main.cpp.obj	3f5c743b09d8d928
+471	664	6830845377592006	ChangeCalculator.exe	b070c72662852a16
+4	459	6830846171316220	CMakeFiles/ChangeCalculator.dir/main.cpp.obj	3f5c743b09d8d928
+460	597	6830846172831927	ChangeCalculator.exe	b070c72662852a16
+4	390	6830847645346313	CMakeFiles/ChangeCalculator.dir/main.cpp.obj	3f5c743b09d8d928
+390	528	6830847646708725	ChangeCalculator.exe	b070c72662852a16
+2	382	6830849739522695	CMakeFiles/ChangeCalculator.dir/main.cpp.obj	3f5c743b09d8d928
+383	491	6830849740603622	ChangeCalculator.exe	b070c72662852a16
+3	375	6830850731604548	CMakeFiles/ChangeCalculator.dir/main.cpp.obj	3f5c743b09d8d928
+381	470	6830850732513575	ChangeCalculator.exe	b070c72662852a16

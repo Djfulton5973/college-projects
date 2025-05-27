@@ -1,0 +1,3 @@
+﻿  rectangle.cpp
+C:\Users\Darren Fulton\Downloads\rectangle.cpp(42,15): warning C4101: 'thePoint': unreferenced local variable
+  Rectagular.vcxproj -> C:\Users\Darren Fulton\Documents\COP 2006\Rectagular\x64\Debug\Rectagular.exe

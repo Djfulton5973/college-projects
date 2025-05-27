@@ -1,0 +1,3 @@
+C:/Users/Darren Fulton/Documents/COP 2006/theminandmax/cmake-build-debug/CMakeFiles/theminandmax.dir
+C:/Users/Darren Fulton/Documents/COP 2006/theminandmax/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Darren Fulton/Documents/COP 2006/theminandmax/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,27 @@
+# ninja log v5
+1	777	6873710302101297	CMakeFiles/constructorcounter.dir/main.cpp.obj	943c9ee9373b7277
+780	1056	6873710304692113	constructorcounter.exe	cc0e5adafe52f111
+4	1042	6873710882276645	CMakeFiles/constructorcounter.dir/main.cpp.obj	943c9ee9373b7277
+1043	1409	6873710885869018	constructorcounter.exe	cc0e5adafe52f111
+2	339	6873711113734101	CMakeFiles/constructorcounter.dir/main.cpp.obj	943c9ee9373b7277
+341	568	6873711114979964	constructorcounter.exe	cc0e5adafe52f111
+2	329	6873711502881216	CMakeFiles/constructorcounter.dir/main.cpp.obj	943c9ee9373b7277
+329	432	6873711503837690	constructorcounter.exe	cc0e5adafe52f111
+3	363	6873712155545693	CMakeFiles/constructorcounter.dir/main.cpp.obj	943c9ee9373b7277
+365	488	6873712156839158	constructorcounter.exe	cc0e5adafe52f111
+4	420	6873715919840593	CMakeFiles/constructorcounter.dir/main.cpp.obj	943c9ee9373b7277
+421	560	6873715921265761	constructorcounter.exe	cc0e5adafe52f111
+2	355	6873716905032323	CMakeFiles/constructorcounter.dir/main.cpp.obj	943c9ee9373b7277
+356	528	6873716906745264	constructorcounter.exe	cc0e5adafe52f111
+3	376	6873718634701004	CMakeFiles/constructorcounter.dir/main.cpp.obj	943c9ee9373b7277
+377	477	6873718635653643	constructorcounter.exe	cc0e5adafe52f111
+2	371	6873719987300110	CMakeFiles/constructorcounter.dir/main.cpp.obj	943c9ee9373b7277
+3	376	6873721056815952	CMakeFiles/constructorcounter.dir/main.cpp.obj	943c9ee9373b7277
+2	447	6873721814038233	CMakeFiles/constructorcounter.dir/main.cpp.obj	943c9ee9373b7277
+448	575	6873721815306722	constructorcounter.exe	cc0e5adafe52f111
+2	359	6873722314095128	CMakeFiles/constructorcounter.dir/main.cpp.obj	943c9ee9373b7277
+360	472	6873722315132267	constructorcounter.exe	cc0e5adafe52f111
+2	393	6873722504751250	CMakeFiles/constructorcounter.dir/main.cpp.obj	943c9ee9373b7277
+394	517	6873722505965521	constructorcounter.exe	cc0e5adafe52f111
+3	345	6873727583806874	CMakeFiles/constructorcounter.dir/main.cpp.obj	943c9ee9373b7277
+346	443	6873727584815325	constructorcounter.exe	cc0e5adafe52f111

@@ -1,0 +1,21 @@
+# ninja log v5
+0	17	0	clean	b72c21c3e92959a
+8	3720	6808052322522014	CMakeFiles/eagles.dir/src/Random.cpp.obj	8923cf427b305de8
+13	2450	6808052316639204	CMakeFiles/eagles.dir/src/Bounds.cpp.obj	aa006309e3ed20c1
+30	5537	6808052347929630	CMakeFiles/eagles.dir/src/Animator.cpp.obj	ff8310df5028d41b
+35	2633	6808052318368486	CMakeFiles/eagles.dir/src/AnimatedRectangle.cpp.obj	f1887e467dc18a5d
+23	4652	6808052339074105	CMakeFiles/eagles.dir/src/AnimatedCircle.cpp.obj	2368316c1f13824c
+42	3864	6808052328492355	CMakeFiles/eagles.dir/src/AnimatedShape.cpp.obj	308fdf561f3216f8
+2451	4953	6808052342031134	CMakeFiles/eagles.dir/src/AnimatedTriangle.cpp.obj	7305a9246902ccd
+2633	5874	6808052351279684	CMakeFiles/eagles.dir/src/AnimatedWindow.cpp.obj	98b0b8b4166e1d16
+5874	6055	6808052353039849	../lib/libeagles.a	1929e82dce47579a
+0	14	0	clean	b72c21c3e92959a
+12	656	6813348817804632	CMakeFiles/eagles.dir/src/Bounds.cpp.obj	aa006309e3ed20c1
+25	678	6813348817974058	CMakeFiles/eagles.dir/src/AnimatedRectangle.cpp.obj	f1887e467dc18a5d
+18	866	6813348819834023	CMakeFiles/eagles.dir/src/AnimatedCircle.cpp.obj	2368316c1f13824c
+37	1086	6813348822109519	CMakeFiles/eagles.dir/src/AnimatedShape.cpp.obj	308fdf561f3216f8
+678	1198	6813348823227042	CMakeFiles/eagles.dir/src/AnimatedTriangle.cpp.obj	7305a9246902ccd
+6	1354	6813348824779181	CMakeFiles/eagles.dir/src/Random.cpp.obj	8923cf427b305de8
+21	1555	6813348826830147	CMakeFiles/eagles.dir/src/Animator.cpp.obj	ff8310df5028d41b
+657	1766	6813348828912531	CMakeFiles/eagles.dir/src/AnimatedWindow.cpp.obj	98b0b8b4166e1d16
+1766	1986	6813348831111536	../lib/libeagles.a	1929e82dce47579a

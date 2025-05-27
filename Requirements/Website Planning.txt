@@ -1,0 +1,7 @@
+Artifact:
+	Product Backlog
+	Diagrams
+	Requirements
+Questions:
+	What is Product Goal?
+	What is the definition of "DONE"?

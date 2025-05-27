@@ -1,0 +1,6 @@
+# ninja log v5
+6	342	6798171108786515	build.ninja	c435c0adefc4c7d9
+4	411	6792529797628367	CMakeFiles/Pythagorean.dir/Pythagorean.cpp.obj	b7a0d91fa40bd241
+411	550	6792529798950934	Pythagorean.exe	9588a88d5e9e3784
+3	613	6798174458563922	CMakeFiles/Pythagorean.dir/Pythagorean.cpp.obj	b7a0d91fa40bd241
+614	867	6798174461054456	Pythagorean.exe	9588a88d5e9e3784

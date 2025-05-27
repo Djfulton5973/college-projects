@@ -1,0 +1,5 @@
+# ninja log v5
+4	360	6794232521774282	CMakeFiles/LargestInteger.dir/main.cpp.obj	9afa762a412fc33b
+362	509	6794232523199313	LargestInteger.exe	faf822216b308eb1
+0	358	6798175322578157	CMakeFiles/LargestInteger.dir/biggestinteger.cpp.obj	581971a853414b18
+360	491	6798175323864636	LargestInteger.exe	194ca89b1ec67f06

@@ -1,0 +1,3 @@
+C:/Users/Darren Fulton/Documents/COP 3003/sumof5numbers/cmake-build-debug/CMakeFiles/sumof5numbers.dir
+C:/Users/Darren Fulton/Documents/COP 3003/sumof5numbers/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Darren Fulton/Documents/COP 3003/sumof5numbers/cmake-build-debug/CMakeFiles/rebuild_cache.dir

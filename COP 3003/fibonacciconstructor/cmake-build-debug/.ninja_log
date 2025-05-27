@@ -1,0 +1,9 @@
+# ninja log v5
+0	396	6893907541125541	CMakeFiles/fibonacciconstructor.dir/main.cpp.obj	d00c972c230cd4ec
+399	520	6893907542331551	fibonacciconstructor.exe	8cf899b29b26f406
+4	1180	6893918113703263	CMakeFiles/fibonacciconstructor.dir/main.cpp.obj	d00c972c230cd4ec
+1181	1584	6893918117823640	fibonacciconstructor.exe	8cf899b29b26f406
+2	342	6893919070379686	CMakeFiles/fibonacciconstructor.dir/main.cpp.obj	d00c972c230cd4ec
+342	495	6893919071859834	fibonacciconstructor.exe	8cf899b29b26f406
+2	340	6900866942233469	CMakeFiles/fibonacciconstructor.dir/main.cpp.obj	d00c972c230cd4ec
+341	442	6900866943212965	fibonacciconstructor.exe	8cf899b29b26f406

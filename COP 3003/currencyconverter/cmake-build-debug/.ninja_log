@@ -1,0 +1,23 @@
+# ninja log v5
+1	528	6836880683006707	CMakeFiles/currencyconverter.dir/main.cpp.obj	93e14c104139f63c
+532	690	6836880684508675	currencyconverter.exe	da921e24b6270e3b
+2	429	6836881373762963	CMakeFiles/currencyconverter.dir/main.cpp.obj	93e14c104139f63c
+430	581	6836881375201813	currencyconverter.exe	da921e24b6270e3b
+4	731	6841737994569507	CMakeFiles/currencyconverter.dir/main.cpp.obj	93e14c104139f63c
+731	1245	6841737999668942	currencyconverter.exe	da921e24b6270e3b
+3	945	6841738554406935	CMakeFiles/currencyconverter.dir/main.cpp.obj	93e14c104139f63c
+946	1302	6841738557981048	currencyconverter.exe	da921e24b6270e3b
+4	429	6841742653035246	CMakeFiles/currencyconverter.dir/main.cpp.obj	93e14c104139f63c
+430	535	6841742654036133	currencyconverter.exe	da921e24b6270e3b
+4	419	6841743168710200	CMakeFiles/currencyconverter.dir/main.cpp.obj	93e14c104139f63c
+419	508	6841743169618623	currencyconverter.exe	da921e24b6270e3b
+6	420	6841746224455899	CMakeFiles/currencyconverter.dir/main.cpp.obj	93e14c104139f63c
+421	507	6841746225240014	currencyconverter.exe	da921e24b6270e3b
+3	410	6841747462967984	CMakeFiles/currencyconverter.dir/main.cpp.obj	93e14c104139f63c
+411	504	6841747463915759	currencyconverter.exe	da921e24b6270e3b
+3	459	6841747899726171	CMakeFiles/currencyconverter.dir/main.cpp.obj	93e14c104139f63c
+459	597	6841747901014380	currencyconverter.exe	da921e24b6270e3b
+3	502	6846447958519501	CMakeFiles/currencyconverter.dir/main.cpp.obj	93e14c104139f63c
+503	609	6846447959533341	currencyconverter.exe	da921e24b6270e3b
+3	428	6846448131174667	CMakeFiles/currencyconverter.dir/main.cpp.obj	93e14c104139f63c
+428	516	6846448132122278	currencyconverter.exe	da921e24b6270e3b

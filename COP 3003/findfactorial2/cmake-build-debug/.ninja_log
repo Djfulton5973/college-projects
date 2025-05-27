@@ -1,0 +1,9 @@
+# ninja log v5
+1	362	6877606679290665	CMakeFiles/findfactorial2.dir/main.cpp.obj	e1cf76bcf3e2bc64
+364	475	6877606680378621	findfactorial2.exe	356a52d72d52a9df
+4	370	6877607434987983	CMakeFiles/findfactorial2.dir/main.cpp.obj	e1cf76bcf3e2bc64
+371	455	6877607435796161	findfactorial2.exe	356a52d72d52a9df
+3	356	6877613503855971	CMakeFiles/findfactorial2.dir/main.cpp.obj	e1cf76bcf3e2bc64
+357	456	6877613504808934	findfactorial2.exe	356a52d72d52a9df
+4	532	6877681052075227	CMakeFiles/findfactorial2.dir/main.cpp.obj	e1cf76bcf3e2bc64
+533	889	6877681055609864	findfactorial2.exe	356a52d72d52a9df

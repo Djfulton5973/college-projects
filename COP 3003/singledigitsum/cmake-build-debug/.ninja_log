@@ -1,0 +1,5 @@
+# ninja log v5
+1	658	6846285938469988	CMakeFiles/singledigitsum.dir/main.cpp.obj	1278a92f70a74f2c
+662	905	6846285940990345	singledigitsum.exe	249ed0eebde59a49
+3	315	6846444775161524	CMakeFiles/singledigitsum.dir/main.cpp.obj	1278a92f70a74f2c
+315	401	6846444776024530	singledigitsum.exe	249ed0eebde59a49

@@ -1,0 +1,13 @@
+# ninja log v5
+0	10	0	clean	b72c21c3e92959a
+4	774	6800516059204390	CMakeFiles/AzulCheckers.dir/azulcheckers.cpp.obj	ba9be6682cbd05bc
+775	1300	6800516064397902	AzulCheckers.exe	795b48265b7742ba
+4	899	6804609656674756	CMakeFiles/AzulCheckers.dir/azulcheckers.cpp.obj	ba9be6682cbd05bc
+903	1751	6804609665190943	AzulCheckers.exe	795b48265b7742ba
+0	13	0	clean	b72c21c3e92959a
+3	769	6804609945331471	CMakeFiles/AzulCheckers.dir/azulcheckers.cpp.obj	ba9be6682cbd05bc
+770	1185	6804609949381775	AzulCheckers.exe	795b48265b7742ba
+8	743	6804614319784089	CMakeFiles/AzulCheckers.dir/azulcheckers.cpp.obj	ba9be6682cbd05bc
+744	1213	6804614324410772	AzulCheckers.exe	795b48265b7742ba
+4	786	6804614773831715	CMakeFiles/AzulCheckers.dir/azulcheckers.cpp.obj	ba9be6682cbd05bc
+787	1220	6804614778127961	AzulCheckers.exe	795b48265b7742ba

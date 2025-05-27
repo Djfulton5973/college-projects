@@ -1,0 +1,3 @@
+C:/Users/Darren Fulton/Documents/SFML_Projects/Exercises/AzulStep/cmake-build-debug/CMakeFiles/AzulStep.dir
+C:/Users/Darren Fulton/Documents/SFML_Projects/Exercises/AzulStep/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Darren Fulton/Documents/SFML_Projects/Exercises/AzulStep/cmake-build-debug/CMakeFiles/rebuild_cache.dir

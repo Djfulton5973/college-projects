@@ -1,0 +1,205 @@
+[
+  {
+    "site": "google.com",
+    "time": 27,
+    "size": 55,
+    "protocol": "UDP",
+    "ip4": "142.250.64.142"
+  },
+  {
+    "site": "google.com",
+    "time": 32,
+    "size": 55,
+    "protocol": "UDP",
+    "ip4": "142.250.217.238"
+  },
+  {
+    "site": "google.com",
+    "time": 42,
+    "size": 55,
+    "protocol": "UDP",
+    "ip4": "172.217.3.78"
+  },
+  {
+    "site": "google.com",
+    "time": 42,
+    "size": 55,
+    "protocol": "UDP",
+    "ip4": "172.217.3.78"
+  },
+  {
+    "site": "google.com",
+    "time": 42,
+    "size": 55,
+    "protocol": "UDP",
+    "ip4": "172.217.3.78"
+  },
+  {
+    "site": "google.com",
+    "time": 36,
+    "size": 71,
+    "protocol": "UDP",
+    "ip4": "216.239.34.10",
+    "ip6": "2001:4860:4802:34::a"
+  },
+  {
+    "site": "google.com",
+    "time": 40,
+    "size": 71,
+    "protocol": "UDP",
+    "ip4": "216.239.36.10",
+    "ip6": "2001:4860:4802:36::a"
+  },
+  {
+    "site": "google.com",
+    "time": 38,
+    "size": 71,
+    "protocol": "UDP",
+    "ip4": "216.239.38.10",
+    "ip6": "2001:4860:4802:38::a"
+  },
+  {
+    "site": "google.com",
+    "time": 31,
+    "size": 71,
+    "protocol": "UDP",
+    "ip4": "216.239.32.10",
+    "ip6": "2001:4860:4802:32::a"
+  },
+  {
+    "time": 19,
+    "size": 90,
+    "protocol": "UDP",
+  },
+  {
+    "time": 25,
+    "size": 90,
+    "protocol": "UDP",
+    "ip4": "208.80.154.224"
+  },
+  {
+    "site": "hostmaster.wikimedia.org",
+    "time": 23,
+    "size": 90,
+    "protocol": "UDP",
+  },
+  {
+    "site": "fgcu.edu",
+    "time": 32,
+    "size": 105,
+    "protocol": "UDP",
+    "ip4": "69.88.161.63"
+  },
+  {
+    "site": "en.fgcu.edu",
+    "time": 28,
+    "size": 84,
+    "protocol": "UDP",
+    "ip4": "52.179.191.54"
+  },
+  {
+    "site": "linuxfoundation.org",
+    "time": 28,
+    "size": 80,
+    "protocol": "UDP",
+    "ip4": "162.159.24.4"
+  },
+  {
+    "site": "wiki.linuxfoundation.org",
+    "time": 32,
+    "size": 80,
+    "protocol": "UDP",
+    "ip4": "162.159.25.4"
+  },
+  {
+    "site": "ubuntu.com",
+    "time": 45,
+    "size": 60,
+    "protocol": "UDP",
+    "ip4": "185.125.190.66",
+    "ip6": "2620:2d:4000:1::44"
+  },
+  {
+    "site": "en.linuxfoundation.org",
+    "time": 32,
+    "size": 80,
+    "protocol": "UDP",
+    "ip4": "162.159.26.4"
+  },
+  {
+    "site": "sp.linuxfoundation.org",
+    "time": 32,
+    "size": 80,
+    "protocol": "UDP",
+    "ip4": "162.247.155.53"
+  },
+  {
+    "site": "en.ubuntu.com",
+    "time": 53,
+    "size": 60,
+    "protocol": "UDP",
+    "ip4": "185.125.190.65",
+    "ip6": "2620:2d:4000:1::43"
+  }
+]
+wikis checked
+PING digitalocean.com (104.16.181.15) 56(84) bytes of data.
+64 bytes from 104.16.181.15 (104.16.181.15): icmp_seq=1 ttl=128 time=101 ms
+64 bytes from 104.16.181.15 (104.16.181.15): icmp_seq=2 ttl=128 time=28.6 ms
+64 bytes from 104.16.181.15 (104.16.181.15): icmp_seq=3 ttl=128 time=42.5 ms
+64 bytes from 104.16.181.15 (104.16.181.15): icmp_seq=4 ttl=128 time=64.1 ms
+64 bytes from 104.16.181.15 (104.16.181.15): icmp_seq=5 ttl=128 time=21.5 ms
+
+--- digitalocean.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 21.541/51.524/100.938/28.665 ms
+Root Server check digitalocean:
+104.16.182.15
+104.16.181.15
+
+; <<>> DiG 9.18.1-1ubuntu1.3-Ubuntu <<>> ns digitalocean.com +trace
+;; global options: +cmd
+.			5	IN	NS	m.root-servers.net.
+.			5	IN	NS	c.root-servers.net.
+.			5	IN	NS	d.root-servers.net.
+.			5	IN	NS	k.root-servers.net.
+.			5	IN	NS	h.root-servers.net.
+.			5	IN	NS	j.root-servers.net.
+.			5	IN	NS	a.root-servers.net.
+.			5	IN	NS	l.root-servers.net.
+.			5	IN	NS	g.root-servers.net.
+.			5	IN	NS	f.root-servers.net.
+.			5	IN	NS	i.root-servers.net.
+.			5	IN	NS	b.root-servers.net.
+.			5	IN	NS	e.root-servers.net.
+;; Received 519 bytes from 127.0.0.53#53(127.0.0.53) in 232 ms
+
+com.			172800	IN	NS	h.gtld-servers.net.
+com.			172800	IN	NS	c.gtld-servers.net.
+com.			172800	IN	NS	d.gtld-servers.net.
+com.			172800	IN	NS	k.gtld-servers.net.
+com.			172800	IN	NS	i.gtld-servers.net.
+com.			172800	IN	NS	g.gtld-servers.net.
+com.			172800	IN	NS	e.gtld-servers.net.
+com.			172800	IN	NS	f.gtld-servers.net.
+com.			172800	IN	NS	b.gtld-servers.net.
+com.			172800	IN	NS	a.gtld-servers.net.
+com.			172800	IN	NS	l.gtld-servers.net.
+com.			172800	IN	NS	m.gtld-servers.net.
+com.			172800	IN	NS	j.gtld-servers.net.
+com.			86400	IN	DS	30909 8 2 E2D3C916F6DEEAC73294E8268FB5885044A833FC5459588F4A9184CF C41A5766
+com.			86400	IN	RRSIG	DS 8 1 86400 20230305170000 20230220160000 951 . hcmthMgfSR3frsKdZntIFSViwPiBScPaMdfmN6eJf1OJf8DEz1TlRxBR yIHUKhP9SBxcBbfzNZwHNNU2+meXGCAc4/CvVeqK17/TA7I1BbzUGTbg GJqB2d3RH1K9HNU4YFdkOl9PztHc1tqQewqVVPOnFiRzaZHpOdysQ4kC 1Dvt5nQ4fLeIumcW4/L5zDDlFDtzSvb8WjPU1vqSfzNfxYuzyROIJgyL C/mPyhkupsF4YJhd6vavFkTGLzxJZgo73zkrgTXgEaFdYUzumX2ED0d0 MQuKJ6zQIuJyhs1zR354jwZr/TIfAv3dlh4Bs3quJEYJfEM0UT0S7IuR u2qMZQ==
+;; Received 1204 bytes from 192.36.148.17#53(i.root-servers.net) in 140 ms
+
+digitalocean.com.	172800	IN	NS	kim.ns.cloudflare.com.
+digitalocean.com.	172800	IN	NS	walt.ns.cloudflare.com.
+CK0POJMG874LJREF7EFN8430QVIT8BSM.com. 86400 IN NSEC3 1 1 0 - CK0Q2D6NI4I7EQH8NA30NS61O48UL8G5 NS SOA RRSIG DNSKEY NSEC3PARAM
+CK0POJMG874LJREF7EFN8430QVIT8BSM.com. 86400 IN RRSIG NSEC3 8 2 86400 20230227052255 20230220041255 36739 com. YJw2xFEhDVUfIlym8yUrXw8rVYLxS+e/EkIJVmOkBANnfCmNPVATcGuM /DIrUz8PTWTezM5z6f2tM+KnzzXYMNL1ScDIgO/jaJUrs4aOz1EOPwD4 hk5rJ/pRSY9C87vRoxqdryDIHxg3TwwEfQglqQ9hk+P1qvU7qY5nd0yc tO+IV8Vqd0sRiteg/P1h6Bpp79v/kZNjntRTdnWLI2oW2g==
+PQSDNBVOLLUEGQ7GU1HANS9GRKSR543P.com. 86400 IN NSEC3 1 1 0 - PQSDVBRFKQCSIN3HHUVMAB21E2I84K83 NS DS RRSIG
+PQSDNBVOLLUEGQ7GU1HANS9GRKSR543P.com. 86400 IN RRSIG NSEC3 8 2 86400 20230224061229 20230217050229 36739 com. pAusI/lAvpgb+QiEblJ+PwomE97UVjCBK57A2ZOz2+HBvgHC1hCYJ3He nWrNGf/GC+Ww1ptyER8pl+gx7ymqEU1ywWXrME2vHNJPc9S+kjRq8jg2 kpeJHznBsDO/lNYa8MPzAkoZsJzXDgGlpsoLeiXIK/iAOHi9j6OaQDID I4IqmafxIgj68tRepi2+RYGvl8K6kG9k+9HlPClOyCLIUA==
+;; Received 909 bytes from 192.52.178.30#53(k.gtld-servers.net) in 172 ms
+
+digitalocean.com.	86400	IN	NS	kim.ns.cloudflare.com.
+digitalocean.com.	86400	IN	NS	walt.ns.cloudflare.com.
+;; Received 96 bytes from 108.162.192.126#53(kim.ns.cloudflare.com) in 100 ms
+

@@ -1,0 +1,11 @@
+# ninja log v5
+0	400	6891272366622919	CMakeFiles/functionoverloading.dir/main.cpp.obj	a547224128db937c
+403	543	6891272368018478	functionoverloading.exe	d67c5a703ab255ba
+2	322	6891272501005733	CMakeFiles/functionoverloading.dir/main.cpp.obj	a547224128db937c
+323	426	6891272501990975	functionoverloading.exe	d67c5a703ab255ba
+4	356	6891272643850338	CMakeFiles/functionoverloading.dir/main.cpp.obj	a547224128db937c
+357	447	6891272644793126	functionoverloading.exe	d67c5a703ab255ba
+3	340	6891272746240767	CMakeFiles/functionoverloading.dir/main.cpp.obj	a547224128db937c
+340	434	6891272747126551	functionoverloading.exe	d67c5a703ab255ba
+5	412	6900087645450195	CMakeFiles/functionoverloading.dir/main.cpp.obj	a547224128db937c
+412	523	6900087646531873	functionoverloading.exe	d67c5a703ab255ba

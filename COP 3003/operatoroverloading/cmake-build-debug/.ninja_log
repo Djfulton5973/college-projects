@@ -1,0 +1,17 @@
+# ninja log v5
+0	340	6891325198540880	CMakeFiles/operatoroverloading.dir/main.cpp.obj	24a65ccd11fd61f3
+342	464	6891325199750252	operatoroverloading.exe	29ce434c20549b31
+3	316	6891325305011666	CMakeFiles/operatoroverloading.dir/main.cpp.obj	24a65ccd11fd61f3
+316	407	6891325305825349	operatoroverloading.exe	29ce434c20549b31
+3	323	6891325363765693	CMakeFiles/operatoroverloading.dir/main.cpp.obj	24a65ccd11fd61f3
+323	413	6891325364676042	operatoroverloading.exe	29ce434c20549b31
+2	303	6891325791410373	CMakeFiles/operatoroverloading.dir/main.cpp.obj	24a65ccd11fd61f3
+304	400	6891325792289427	operatoroverloading.exe	29ce434c20549b31
+3	670	6900055400050317	CMakeFiles/operatoroverloading.dir/main.cpp.obj	24a65ccd11fd61f3
+670	1042	6900055403745767	operatoroverloading.exe	29ce434c20549b31
+3	393	6900055980049386	CMakeFiles/operatoroverloading.dir/main.cpp.obj	24a65ccd11fd61f3
+394	491	6900055980995313	operatoroverloading.exe	29ce434c20549b31
+3	360	6900056098846999	CMakeFiles/operatoroverloading.dir/main.cpp.obj	24a65ccd11fd61f3
+360	467	6900056099886043	operatoroverloading.exe	29ce434c20549b31
+3	356	6900056276214282	CMakeFiles/operatoroverloading.dir/main.cpp.obj	24a65ccd11fd61f3
+357	448	6900056277098557	operatoroverloading.exe	29ce434c20549b31

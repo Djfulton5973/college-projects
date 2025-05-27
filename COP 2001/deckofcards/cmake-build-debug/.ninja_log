@@ -1,0 +1,19 @@
+# ninja log v5
+0	1000	6806808124789688	CMakeFiles/deckofcards.dir/deckofcards.cpp.obj	8820ee31a760ad30
+1003	1321	6806808127952319	deckofcards.exe	bdf97deca91e0749
+2	504	6806813182129307	CMakeFiles/deckofcards.dir/deckofcards.cpp.obj	8820ee31a760ad30
+505	707	6806813184086392	deckofcards.exe	bdf97deca91e0749
+2	492	6806815762075948	CMakeFiles/deckofcards.dir/deckofcards.cpp.obj	8820ee31a760ad30
+492	719	6806815764073180	deckofcards.exe	bdf97deca91e0749
+2	379	6806817029114507	CMakeFiles/deckofcards.dir/deckofcards.cpp.obj	8820ee31a760ad30
+380	524	6806817030548803	deckofcards.exe	bdf97deca91e0749
+3	364	6806821826171397	CMakeFiles/deckofcards.dir/deckofcards.cpp.obj	8820ee31a760ad30
+369	527	6806821827737570	deckofcards.exe	bdf97deca91e0749
+2	346	6806823866293944	CMakeFiles/deckofcards.dir/deckofcards.cpp.obj	8820ee31a760ad30
+347	465	6806823867448229	deckofcards.exe	bdf97deca91e0749
+2	345	6806824285254153	CMakeFiles/deckofcards.dir/deckofcards.cpp.obj	8820ee31a760ad30
+345	461	6806824286352468	deckofcards.exe	bdf97deca91e0749
+2	382	6806828690481815	CMakeFiles/deckofcards.dir/deckofcards.cpp.obj	8820ee31a760ad30
+383	515	6806828691765780	deckofcards.exe	bdf97deca91e0749
+4	363	6806829442258279	CMakeFiles/deckofcards.dir/deckofcards.cpp.obj	8820ee31a760ad30
+364	499	6806829443568488	deckofcards.exe	bdf97deca91e0749

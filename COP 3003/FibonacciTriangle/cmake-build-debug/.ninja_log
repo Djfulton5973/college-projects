@@ -1,0 +1,9 @@
+# ninja log v5
+1	2169	6846354921329721	CMakeFiles/FibonacciTriangle.dir/main.cpp.obj	b2b959a0de0609ae
+2173	2543	6846354924972462	FibonacciTriangle.exe	f88d21c70c801bd3
+7	448	6846359249294135	CMakeFiles/FibonacciTriangle.dir/main.cpp.obj	b2b959a0de0609ae
+449	582	6846359250558806	FibonacciTriangle.exe	f88d21c70c801bd3
+2	389	6846359373423875	CMakeFiles/FibonacciTriangle.dir/main.cpp.obj	b2b959a0de0609ae
+390	527	6846359374732492	FibonacciTriangle.exe	f88d21c70c801bd3
+3	309	6846449163306901	CMakeFiles/FibonacciTriangle.dir/main.cpp.obj	b2b959a0de0609ae
+309	407	6846449164321265	FibonacciTriangle.exe	f88d21c70c801bd3

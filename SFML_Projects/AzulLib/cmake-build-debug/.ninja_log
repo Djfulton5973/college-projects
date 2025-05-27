@@ -1,0 +1,19 @@
+# ninja log v5
+0	21	0	clean	b72c21c3e92959a
+37	1663	6795988097481423	CMakeFiles/azul.dir/src/AzulStep.cpp.obj	e610611e61200cce
+1303	2449	6795988105385420	CMakeFiles/azul.dir/src/AzulBasic.cpp.obj	52b749746a33417f
+16	1302	6795988093885618	CMakeFiles/azul.dir/src/AzulWindow.cpp.obj	1cf949d64638c3e7
+32	2106	6795988101987367	CMakeFiles/azul.dir/src/AzulWorld.cpp.obj	fbb46776c09210bb
+6	1707	6795988097861791	CMakeFiles/azul.dir/src/AzulCell.cpp.obj	cda46600d595a9a1
+2449	2933	6795988110208911	../lib/libazul.a	2a6fea3f11d517f7
+21	1824	6795988099128518	CMakeFiles/azul.dir/src/Azul.cpp.obj	478a2ba5ac5814bd
+25	2037	6795988101290052	CMakeFiles/azul.dir/src/AzulSteeplechase.cpp.obj	1a5f4d54d794dafd
+0	17	0	clean	b72c21c3e92959a
+21	1841	6804602498972791	CMakeFiles/azul.dir/src/AzulWindow.cpp.obj	1cf949d64638c3e7
+42	1902	6804602499399404	CMakeFiles/azul.dir/src/AzulStep.cpp.obj	e610611e61200cce
+14	2108	6804602501577786	CMakeFiles/azul.dir/src/AzulCell.cpp.obj	cda46600d595a9a1
+26	2427	6804602504803356	CMakeFiles/azul.dir/src/Azul.cpp.obj	478a2ba5ac5814bd
+30	2542	6804602505970301	CMakeFiles/azul.dir/src/AzulWorld.cpp.obj	fbb46776c09210bb
+35	2714	6804602507775253	CMakeFiles/azul.dir/src/AzulSteeplechase.cpp.obj	1a5f4d54d794dafd
+1842	3381	6804602514444943	CMakeFiles/azul.dir/src/AzulBasic.cpp.obj	52b749746a33417f
+3381	3864	6804602518949823	../lib/libazul.a	2a6fea3f11d517f7

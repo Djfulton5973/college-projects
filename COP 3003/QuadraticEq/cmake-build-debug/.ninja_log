@@ -1,0 +1,5 @@
+# ninja log v5
+3	396	6841789682038738	CMakeFiles/QuadraticEq.dir/main.cpp.obj	768358e53cf1af34
+398	489	6841793134433156	QuadraticEq.exe	756800c77c5a45f0
+2	219	6841804376721554	build.ninja	cf11f6160ebb1541
+0	397	6841793133569992	CMakeFiles/QuadraticEq.dir/quadratic.cpp.obj	85b6176c95a00cb9

@@ -1,0 +1,5 @@
+# ninja log v5
+2	776	6814559606301602	CMakeFiles/SnakeGameProject.dir/main.cpp.obj	3361c257105417c2
+983	1216	6814575641904921	SnakeGameProject.exe	b83c86e03b769c1e
+1	383	6830799057649099	build.ninja	702467ce90dce650
+7	983	6814575639598949	CMakeFiles/SnakeGameProject.dir/snakegame.cpp.obj	e1e26952434e87bb

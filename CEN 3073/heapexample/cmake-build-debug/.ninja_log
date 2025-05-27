@@ -1,0 +1,5 @@
+# ninja log v5
+1	719	7034486194967074	CMakeFiles/heapexample.dir/main.cpp.obj	db75ba089b00e86e
+725	1088	7034486198723625	heapexample.exe	e60137dc011621a
+6	332	7034486829548604	CMakeFiles/heapexample.dir/main.cpp.obj	db75ba089b00e86e
+332	469	7034486830860429	heapexample.exe	e60137dc011621a

@@ -1,0 +1,3 @@
+C:/Users/Darren Fulton/Documents/COP 2006/AzulCheckers/cmake-build-debug/CMakeFiles/AzulCheckers.dir
+C:/Users/Darren Fulton/Documents/COP 2006/AzulCheckers/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Darren Fulton/Documents/COP 2006/AzulCheckers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
